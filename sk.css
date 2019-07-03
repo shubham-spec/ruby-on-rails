@@ -1,0 +1,28 @@
+body {
+     background-color:#e8f3f8;
+}
+h1 {
+    text-align: centre;
+    color: steelblue;
+
+ }
+  p {
+     color: red
+}
+ form {
+      margin: 20px auto;
+       width:320px;
+      color: steelblue;
+}
+
+input {
+       padding: 10px;
+       font-size: inherit;
+}
+
+input[type="text"]
+input[type="number"] {
+display: block;
+margin-bottom: 25px;
+width: 100%;
+border: 2px solid steelblue;
